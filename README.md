@@ -2,10 +2,10 @@
 Fun with random api's in <br>
 
 # To add
-Twitter 
-Spotipy
-pyautogui
-flask
+Twitter <br>
+Spotipy <br>
+pyautogui <br>
+flask <br>
 alexa skills
 
 
